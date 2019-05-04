@@ -21,7 +21,7 @@ int main()
         arreglo[i]=num;    
     }
     
-    cout<<"Trama de nï¿½meros aleatorios"<<endl;
+    cout<<"Trama de números aleatorios"<<endl;
     
    cipherData (arreglo, 2); 
 }
